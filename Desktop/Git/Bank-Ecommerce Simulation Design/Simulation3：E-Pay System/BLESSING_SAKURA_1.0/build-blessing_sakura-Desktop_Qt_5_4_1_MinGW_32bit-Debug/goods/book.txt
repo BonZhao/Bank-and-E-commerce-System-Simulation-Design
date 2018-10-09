@@ -1,0 +1,28 @@
+name:《C++Primer》
+gid:100005
+author:Stanley.B.Lippman&Barbara.E.Moo JoséeLaJoie
+pri-price:100
+storage:8
+description:C++的经典教材，基本结构语法GET
+******************************
+name:《HeadFirst JAVA》
+gid:100006
+author:Kathy Sierra&Bert Bates
+pri-price:50
+storage:98
+description:通俗易懂的JAVA入门教程
+******************************
+name:《机器学习》
+gid:100007
+author:TOM.M.Mitchell
+pri-price:29
+storage:97
+description:绝好的机器学习入门书
+******************************
+name:《小王子》
+gid:100008
+author:Antoine de Saint-Exupéry
+pri-price:50
+storage:49
+description:感人至深的故事
+******************************

@@ -1,0 +1,43 @@
+name:《C++Primer》
+price:100
+num:1
+sum:100
+
+name:《HeadFirst JAVA》
+price:50
+num:1
+sum:50
+
+***********
+name:DOTA2撼地神牛岩浆缚套装
+price:50
+num:1
+sum:50
+
+name:《机器学习》
+price:29
+num:1
+sum:29
+
+***********
+name:Fate Stay Night UBWII BDBOX
+price:2500
+num:1
+sum:2500
+
+name:DOTA2撼地神牛岩浆缚套装
+price:50
+num:1
+sum:50
+
+name:月姬Remake
+price:900
+num:1
+sum:900
+
+name:GRAND THEFT AUTO V
+price:500
+num:1
+sum:500
+
+***********

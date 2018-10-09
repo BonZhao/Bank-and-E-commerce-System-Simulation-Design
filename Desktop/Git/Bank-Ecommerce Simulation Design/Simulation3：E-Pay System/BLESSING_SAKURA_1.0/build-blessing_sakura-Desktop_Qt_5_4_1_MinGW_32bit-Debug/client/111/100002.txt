@@ -1,0 +1,32 @@
+name:左冷馋口水兔
+price:45
+num:2
+sum:90
+
+name:SAKURA樱花果冻
+price:9
+num:22
+sum:198
+
+name:大阪皇家酒店法式镜面糖霜蛋糕
+price:270
+num:2
+sum:540
+
+***********
+name:GRAND THEFT AUTO V
+price:500
+num:1
+sum:500
+
+name:《C++Primer》
+price:100
+num:1
+sum:100
+
+name:《HeadFirst JAVA》
+price:50
+num:1
+sum:50
+
+***********

@@ -1,0 +1,3 @@
+bankid:6
+cardnum:001
+sum:6000000.00

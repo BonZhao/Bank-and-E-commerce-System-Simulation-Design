@@ -1,0 +1,3 @@
+bankid:7
+cardnum:000
+sum:1111111

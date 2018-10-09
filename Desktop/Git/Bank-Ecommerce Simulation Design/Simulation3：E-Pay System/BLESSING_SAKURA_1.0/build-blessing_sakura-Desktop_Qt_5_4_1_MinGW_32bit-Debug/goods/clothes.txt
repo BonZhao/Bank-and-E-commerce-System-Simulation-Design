@@ -1,0 +1,28 @@
+name:AIR-JORDAN 98版
+gid:100009
+company:Jordan
+pri-price:5000
+storage:0
+description:经典绝版的正品乔丹签名鞋
+******************************
+name:SHION连衣裙
+gid:100010
+company:Eden*
+pri-price:1000
+storage:0
+description:欧风女款连衣裙
+******************************
+name:NIKE 连帽服
+gid:100011
+company:NIKE
+pri-price:300
+storage:97
+description:透气连帽运动服
+******************************
+name:PEAK-DH运动裤
+gid:100012
+company:PEAK
+pri-price:200
+storage:48
+description:德怀特霍华德版限量运动裤
+******************************

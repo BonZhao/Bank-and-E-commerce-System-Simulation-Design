@@ -1,0 +1,28 @@
+name:月姬Remake
+gid:100001
+company:typemoon
+pri-price:900
+storage:7
+description:经典游戏的绝美重置
+******************************
+name:GRAND THEFT AUTO V
+gid:100002
+company:Rockstar North
+pri-price:500
+storage:96
+description:完美建模的经典动作游戏最新作
+******************************
+name:Fate Stay Night UBWII BDBOX
+gid:100003
+company:typemoon&UFOtable
+pri-price:2500
+storage:97
+description:完整收录UBW第二季全部动画，另附原画集
+******************************
+name:DOTA2撼地神牛岩浆缚套装
+gid:100004
+company:typemoon
+pri-price:50
+storage:48
+description:撼地神牛的超酷套装
+******************************

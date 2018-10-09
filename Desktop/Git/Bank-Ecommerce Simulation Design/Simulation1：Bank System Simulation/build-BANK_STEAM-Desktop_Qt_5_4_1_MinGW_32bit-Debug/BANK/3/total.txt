@@ -1,0 +1,3 @@
+bankid:3
+cardnum:001
+sum:1000000
